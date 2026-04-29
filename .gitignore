@@ -1,0 +1,41 @@
+# Binaries
+cleanup-go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output
+*.out
+
+# Dependencies
+vendor/
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+
+# CSV exports
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Go
+go.work
+go.work.sum

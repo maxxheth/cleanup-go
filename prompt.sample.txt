@@ -1,0 +1,6 @@
+Analyze the following content and provide insights on potential issues. The idea is to identify whether the content is spam or legitimate as it relates to the intent and purpose of the website.
+
+Classify the content as "Spam", "Legitimate", or "Uncertain" and provide a brief justification for your choice. Return the classification and justification in valid JSON format like so: {"classification": "Spam", "justification": "..."}.
+
+Below is the about page description of the website to help you understand its purpose:
+Need a smooth move in King County? Trust First Due Movers for reliable local & long-distance moving services! #MovingServices
